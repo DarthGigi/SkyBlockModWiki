@@ -20,3 +20,8 @@ https://discord.gg/bingobrewers
 A Hypixel Skyblock based community and service Discord offering numerous carry services for all aspects of the game including dungeons, slayers, and kuudra.
 
 https://discord.gg/sbm
+
+## MinionAH
+The official Discord server for MinionAH, offering a place to suggest features, report bugs, keep up with updates, and discuss minion related topics.
+
+https://discord.minionah.com/
